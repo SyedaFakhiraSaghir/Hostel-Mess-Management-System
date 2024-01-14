@@ -1,0 +1,22 @@
+Crispy Broast           
+Cheesy Broast           
+Chicken Burger          
+Chicken Cheese Burger   
+Crispy Zinger Burger    
+Fish Zinger Burger      
+Plain fries             
+Pizza fries             
+Masala fries            
+Club sandwich          
+Chicken Sandwich       
+Chicken Cheese Sandwich
+B.B.Q Sandwich         
+Chicken roll           
+Chicken mayo roll      
+Chicken cheese roll    
+Chicken behari roll    
+Beef roll              
+Chicken Achari karahi  
+Chicken shahi karahi   
+Chicken white karahi   
+Chicken tikka karahi    Chicken fry
